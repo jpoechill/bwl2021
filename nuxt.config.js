@@ -1,7 +1,7 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'bwl2021',
+    title: 'Broadway Liquor | Oakland, CA',
     htmlAttrs: {
       lang: 'en'
     },
